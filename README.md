@@ -1,6 +1,7 @@
 # miro
 
 Hi, I’m Miro. I am trying to figure out how to build a personal page.
+Driven by the desire to learn, build, problem solve, make data-informed decisions, and get things done.
 
 
 ## Career path
