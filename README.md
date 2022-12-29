@@ -19,7 +19,10 @@ Hi, I’m Miro. I am trying to figure out how to build a personal page.
 
 ## Social
 *  https://twitter.com/mirotsibinog
-*  https://twitter.com/goodwisepeople
+*  https://twitter.com/goodwisepeope
+*  https://www.linkedin.com/in/miroslavtsibinog/
+
+
 
 ## About this page
 This page meant to show a high level summary of me and my projects
